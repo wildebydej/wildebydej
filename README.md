@@ -27,3 +27,7 @@ My current project is **Nyra**, a Python application that's growing alongside my
 You'll usually find me exploring psychology, philosophy, folklore, nature, and the stories people tell to make sense of the world.
 
 Those interests often find their way back into the software I build.
+
+  Thanks for looking!
+   See you around. 
+         🌙
