@@ -32,4 +32,4 @@ Those interests often find their way back into the software I build.
   
    See you around. 
    
-         🌙
+         ✨
