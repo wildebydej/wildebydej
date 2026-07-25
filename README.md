@@ -24,7 +24,7 @@ My current project is **Nyra**, a Python application that's growing alongside my
 
 ## 🌲 Outside of Code
 
-You'll usually find me exploring psychology, philosophy, folklore, nature, and the stories people tell to make sense of the world.
+You'll usually find me on a paddleboard, exploring psychology, philosophy, folklore, nature, and the stories people tell to make sense of the world.
 
 Those interests often find their way back into the software I build.
 
